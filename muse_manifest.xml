@@ -1,0 +1,39 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="computerps.com" resolutions="1x" timestamp="1562986609175">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4094843750" ref="index:join:our-mission:contact-us:sponsors"/>
+    <file name="index.css" crc="3773038204" ref="index"/>
+    <file name="join.css" crc="3906997298" ref="join"/>
+    <file name="our-mission.css" crc="3906997298" ref="our-mission"/>
+    <file name="contact-us.css" crc="3906997298" ref="contact-us"/>
+    <file name="sponsors.css" crc="3906997298" ref="sponsors"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:our-mission:sponsors:join:contact-us"/>
+    <file name="museutils.js" crc="340535759" ref="index:our-mission:sponsors:join:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:our-mission:sponsors:join:contact-us"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:our-mission:sponsors:join:contact-us"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:our-mission:sponsors:join:contact-us"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:our-mission:sponsors:join:contact-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:our-mission:sponsors:join:contact-us"/>
+    <file name="require.js" crc="7928878" ref="index:our-mission:sponsors:join:contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo2.jpg" crc="121956493" seo="true" ref="index:our-mission:sponsors:join:contact-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="join" alt=""/>
+    </file>
+    <file name="wallpaper.jpg" crc="366911873" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3939735245" seo="true" mt="1562986593284" redirect="true"/>
+  <file name="our-mission.html" crc="3815760329" seo="true" mt="1562986465194" redirect="true"/>
+  <file name="sponsors.html" crc="60065417" seo="true" mt="1562986465194" redirect="true"/>
+  <file name="join.html" crc="3942131354" seo="true" mt="1562986465194" redirect="true"/>
+  <file name="contact-us.html" crc="440674156" seo="true" mt="1562986465194" redirect="true"/>
+</manifest>
